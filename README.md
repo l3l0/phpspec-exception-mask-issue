@@ -1,0 +1,2 @@
+phpspec-exception-mask-issue
+============================
